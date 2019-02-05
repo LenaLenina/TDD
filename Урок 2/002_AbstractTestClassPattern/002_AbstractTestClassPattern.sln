@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_AbstractTestClassPattern", "007_FactoryInjection\001_AbstractTestClassPattern.csproj", "{580159A6-2EFE-442B-9CCA-069AC16A65C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_AbsTestDriverPattern", "008_LocalFactoryMethod\002_AbsTestDriverPattern.csproj", "{9EC2E49D-46A8-48B6-B090-23A97902E6DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580159A6-2EFE-442B-9CCA-069AC16A65C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580159A6-2EFE-442B-9CCA-069AC16A65C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580159A6-2EFE-442B-9CCA-069AC16A65C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580159A6-2EFE-442B-9CCA-069AC16A65C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC2E49D-46A8-48B6-B090-23A97902E6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC2E49D-46A8-48B6-B090-23A97902E6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC2E49D-46A8-48B6-B090-23A97902E6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC2E49D-46A8-48B6-B090-23A97902E6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
